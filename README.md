@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="banner.png" alt="Rishabh Singh Banner" width="100%" />
+</p>
+
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A855F7&center=true&vCenter=true&width=940&lines=Hi+%F0%9F%91%8B+I'm+Rishabh+Singh;AI+%26+Machine+Learning+Enthusiast;Building+Intelligent+Solutions;Full+Stack+ML+Engineer" alt="Typing SVG" />
 </div>
