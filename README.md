@@ -2,15 +2,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A855F7&center=true&vCenter=true&width=940&lines=Hi+%F0%9F%91%8B+I'm+Rishabh+Singh;AI+%26+Machine+Learning+Enthusiast;Building+Intelligent+Solutions;Full+Stack+ML+Engineer" alt="Typing SVG" />
 </div>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Hrishabh-Singh2003&label=Profile%20views&color=blueviolet&style=flat" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/Hrishabh-Singh2003?label=Followers&style=social" alt="followers" />
-</div>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hrishabh-Singh2003&theme=radical&hide_border=true&stroke=0000&background=0D1117&ring=A855F7&fire=A855F7&currStreakLabel=A855F7" alt="GitHub Streak" />
-</p>
-
 ---
 
 ## 🚀 About Me
@@ -90,32 +81,22 @@ me.say_hi()
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img width="49%" 
-       src="https://github-readme-stats.vercel.app/api?username=Hrishabh-Singh2003&show_icons=true&theme=radical" />
+  
+  <img width="49%" height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Hrishabh-Singh2003&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=FFFFFF" />
+  
+  <img width="49%" height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Hrishabh-Singh2003&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=FFFFFF" />
 
-  <img width="49%" 
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hrishabh-Singh2003&layout=compact&theme=radical" />
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hrishabh-Singh2003&theme=radical&hide_border=true&stroke=0000&background=0D1117&ring=A855F7&fire=A855F7&currStreakLabel=A855F7" alt="GitHub Streak" />
+</p>
+  
 </div>
+
+---
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hrishabh-Singh2003&theme=react-dark&hide_border=true&bg_color=0D1117&color=A855F7&line=A855F7&point=FFFFFF" alt="Contribution Graph" />
+  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Hrishabh-Singh2003&theme=react-dark&hide_border=true&bg_color=0D1117&color=A855F7&line=A855F7&point=FFFFFF" alt="Contribution Graph" />
 </div>
-
----
-
-## 🏆 Certifications
-
-🎓 **Programming Fundamentals** – Duke University, Coursera (Sep 2023)  
-🤖 **Applied Machine Learning** – Coursera (Dec 2023)  
-☁️ **Cloud Computing** – NPTEL, IIT (May 2024)  
-📊 **Data Science for Beginners** – NASSCOM (Mar 2025)
-
----
-
-## 🎯 Leadership & Achievements
-
-🌟 **Google Summer of CodeFest 2025** – Innovators Club, VIT  
-Advanced to Development Round among **100+ participants**, placing in **top 20%** with ML project proposal
 
 ---
 
@@ -125,22 +106,28 @@ Advanced to Development Round among **100+ participants**, placing in **top 20%*
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rishabh-singh-76072b250)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hrishabh94258@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_GITHUB_USERNAME)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](YOUR_PORTFOLIO_URL)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Hrishabh-Singh2003)
 
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=20&fontColor=fff&animation=twinkling" />
+  <img 
+    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=footer&text=Thanks%20for%20visiting!&fontSize=32&fontColor=fff&animation=twinkling"
+    width="100%"
+  />
 </div>
 
 <div align="center">
-  
-### 💭 Quote of the Day
-  
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+## 💭 Quote of the Day
+
+<img 
+  src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"
+  width="60%"
+  height="260"
+/>
 
 </div>
 
