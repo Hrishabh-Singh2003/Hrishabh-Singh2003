@@ -142,7 +142,7 @@
 
 <div style="width:220px;">
     <a href="docs/AI_DOMAIN.md">
-        <img src="docs/img/ai_domains.svg" width="220" alt="AI domains navigation panel">
+        <img src="ai_domains.svg" width="220" alt="AI domains navigation panel">
     </a>
 </div>
 
