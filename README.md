@@ -1,255 +1,153 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Rishabh%20Singh&fontSize=70&animation=twinkling" alt="Rishabh Singh profile header" />
-</p>
-
-<!-- Title -->
-<h3 align="center">
-    <samp>
-        &gt; Hey There!, I am
-        <b><a target="_blank" href="https://www.linkedin.com/in/rishabh-singh-76072b250/">Rishabh Singh</a></b>
-    </samp>
-</h3>
-
-<br>
-
-<p align="center">
-<samp>
-「 Aspiring AI/ML Development Engineer building scalable AI systems, MLOps platforms, and distributed ML infrastructure 」  
-</samp>
-</p>
-
-<p align="center">
-  <img
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1200&color=36BCF7&center=true&vCenter=true&width=900&lines=Machine+Learning+Engineer;Designing+Scalable+ML+Platforms;Building+ML+Infrastructure;Distributed+Systems+%7C+MLOps+%7C+Production+AI"
-    alt="Typing SVG"
-  />
-</p>
-
-<p align="center">
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2J1a3Q1cTB0MGg2d2p0Z3g2eTJpY3J3a3Rqd3VzdnE1a2l3a3ZrbiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/SWoSkN6DxTszqIKEqv/giphy.gif" width="450" alt="Animated machine learning visual">
-</p>
-
-[![divider_arc_reactor](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_cyber_cycle.svg)](https://github.com/hiradEmami)
-
-<!-- Title -->
-<p align="center">
-  <img src="./docs/img/system_access_title.svg" width="100%" alt="System access section title" />
-</p>
-
-<p align="center">
-
-<a href="https://hirademami.github.io/">
-  <img width="82%" src="./docs/img/system/portal_main.svg" alt="Hirad System portal" />
-</a>
-
-</p>
-
-<p align="center">
-
-<a href="https://hirademami.github.io/neural-lab/index.html">
-  <img width="32%" src="./docs/img/system/neural_lab.svg" alt="Neural Lab" />
-</a>
-<a href="https://hirademami.github.io/molecule-lab/index.html">
-  <img width="32%" src="./docs/img/system/molecule_lab.svg" alt="Molecule Lab" />
-</a>
-<a href="https://hirademami.github.io/model-forge/index.html">
-  <img width="32%" src="./docs/img/system/model_forge.svg" alt="Model Forge" />
-</a>
-
-</p>
-
-
-[![divider_moving_neon_gradient](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_cyber_cycle_mirrored.svg)](https://github.com/hiradEmami)
-
-<p align="center">
-  <img src="./docs/img/hirad_core.svg" width="100%" alt="System core panel" />
-</p>
-
-
-[![divider_moving_neon_gradient](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_data_capsul.svg)](https://github.com/hiradEmami)
-
-
-# 🛠 Technologies, Projects, and Domains
-
-<table border="0" cellspacing="10" cellpadding="0">
-<tr>
-
-<!-- LEFT: TOOLS -->
-<td width="420" valign="top" align="center">
-
-<h3>🛠 Technologies</h3>
-<br>
-
-<table align="center" cellspacing="0" cellpadding="6">
-  <tr>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="32"/></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="32"/></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="32"/></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="32"/></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" height="32"/></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="32"/></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" width="32"/></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" width="32"/></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachekafka/apachekafka-original.svg" width="32"/></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" width="32"/></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachespark/apachespark-original.svg" width="32"/></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="32"/></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="32"/></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="32"/></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="32"/></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" width="32"/></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="32"/></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" width="32"/></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apacheairflow/apacheairflow-original.svg" width="32"/></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="32"/></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="32"/></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" width="32"/></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elasticsearch/elasticsearch-original.svg" width="32"/></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rabbitmq/rabbitmq-original.svg" width="32"/></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="32"/></td>
-  </tr>
-</table>
-
-</td>
-
-<!-- PROJECTS -->
-<td width="260" valign="top" align="center">
-
-<h3>🧪 Projects</h3>
-<br>
-
-<div style="width:220px;">
-  <a href="docs/PROJECTS.md">
-    <img src="docs/img/tech_projects_panel.svg" width="220" alt="Projects navigation panel">
-  </a>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A855F7&center=true&vCenter=true&width=940&lines=Hi+%F0%9F%91%8B+I'm+Rishabh+Singh;AI+%26+Machine+Learning+Enthusiast;Building+Intelligent+Solutions;Full+Stack+ML+Engineer" alt="Typing SVG" />
 </div>
 
-</td>
-
-<!-- AI DOMAINS -->
-<td width="260" valign="top" align="center">
-
-<h3>🧠 AI Domains</h3>
-<br>
-
-<div style="width:220px;">
-    <a href="docs/AI_DOMAIN.md">
-        <img src="ai_domains.svg" width="220" alt="AI domains navigation panel">
-    </a>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Hrishabh-Singh2003&label=Profile%20views&color=blueviolet&style=flat" alt="profile views" />
+  <img src="https://img.shields.io/github/followers/Hrishabh-Singh2003?label=Followers&style=social" alt="followers" />
 </div>
 
-</td>
-
-</tr>
-</table>
-
-[![divider_moving_neon_gradient](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_circuit_pulse_bar.svg)](https://github.com/hiradEmami)
-
-### 📊 Vital Statistics
-
-
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HiradEmami&theme=radical" alt="Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hrishabh-Singh2003&theme=radical&hide_border=true&stroke=0000&background=0D1117&ring=A855F7&fire=A855F7&currStreakLabel=A855F7" alt="GitHub Streak" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HiradEmami&theme=radical" alt="GitHub profile contribution summary" />
-</p>    
+---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=HiradEmami&label=PROFILE%20VIEWS&color=36BCF7&style=flat-square" alt="Views" />
-</p>
+## 🚀 About Me
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Code%20Time-3817%20hrs%2020%20mins-blue?style=flat" alt="Views" />
-</p>
+```python
+class RishabhSingh:
+    def __init__(self):
+        self.username = "Rishabh Singh"
+        self.current_education = "Integrated M.Tech in AI @ VIT"
+        self.cgpa = 8.43
+        self.location = "India"
+        self.interests = [
+            "Machine Learning",
+            "Deep Learning", 
+            "Computer Vision",
+            "MLOps",
+            "AI Systems"
+        ]
+        
+    def say_hi(self):
+        print("Thanks for dropping by! Let's build something amazing together!")
 
-[![divider_twin_serpant](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_dual_energy_tracks.svg)](https://github.com/hiradEmami)
+me = RishabhSingh()
+me.say_hi()
+```
 
-<table width="100%" border="0" cellspacing="10" cellpadding="0">
-<tr>
+🎓 **Currently pursuing** Integrated M.Tech in Artificial Intelligence at VIT (Oct 2022 – May 2027)  
+💡 **Passionate about** developing scalable ML solutions and optimizing deep learning pipelines  
+🔭 **Working on** AI-powered systems with real-world impact  
+🌱 **Learning** Advanced MLOps, Cloud Computing, and Production ML Systems  
+📫 **Reach me at** hrishabh94258@gmail.com
 
-<!-- LEFT: COLLAB -->
-<td width="33%" valign="top">
+---
 
-<h2>🤝 Collaboration</h2>
+## 🛠️ Tech Stack
 
-I’m open to collaborating on:
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 
-<ul>
-  <li>ML infrastructure projects</li>
-  <li>Reinforcement learning systems</li>
-  <li>Robotics & autonomous systems</li>
-  <li>Large-scale AI platforms</li>
-</ul>
+### Machine Learning & Deep Learning
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 
-</td>
+### Data Science & Visualization
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
-<!-- MIDDLE: PANEL -->
-<td width="34%" align="center" valign="middle">
-    <a href="docs/COLLAB.md">
-        <img src="docs/img/collaboration_panel.svg" width="200px" alt="Collaboration navigation panel" />
-    </a>
-</td>
+### Databases
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-<!-- RIGHT: CONTACT -->
-<td width="33%" valign="top" align="center">
+### DevOps & Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
-<h2>📫 Contact</h2>
+---
 
-<br>
-
-<a href="https://hirademami.github.io/">
-  <img src="https://img.shields.io/badge/Personal%20Website-hirademami.github.io-36BCF7?style=for-the-badge&logo=google-chrome" alt="Personal website link">
-</a>
-<br><br>
-
-<a href="mailto:hirad.alagha@outlook.com">
-  <img src="https://img.shields.io/badge/email-hirad.alagha@outlook.com-red?style=for-the-badge&logo=gmail" alt="Email contact link">
-</a>
-<br><br>
-
-<a href="https://www.linkedin.com/in/hirad-alagha/">
-  <img src="https://img.shields.io/badge/linkedin-hirad--alagha-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn profile link">
-</a>
-
-</td>
-
-</tr>
-</table>
-
-[![divider_twin_serpant](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_dual_energy_tracks.svg)](https://github.com/hiradEmami)
-
-<p align="center">
-⚡ Building scalable AI systems and machine learning infrastructure
-</p>
-<p align="center">
-Star ⭐ the repos if they helped you!
-</p>
-
-<p align="center">
-  <a href="./CODE_OF_CONDUCT.md">Code of Conduct</a> ·
-  <a href="./CONTRIBUTING.md">Collaboration</a> ·
-  <a href="./SECURITY.md">Security</a>
-</p>
+## 💼 Featured Projects
 
 
-
-<p align="center">
-    <a href="docs/hidden/easter_egg.md">
-        <img src="https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/icons/devops/icon_heartbeat_node.svg" width="20px" alt="Hidden easter egg link">
-    </a>
-</p>
+<img align="centre" width="1080" height="1200" src="rishabh_projects.png" alt="Projects" />
 
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&width=100" alt="Profile footer wave"/>
-</p>
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+  <img width="49%" 
+       src="https://github-readme-stats.vercel.app/api?username=Hrishabh-Singh2003&show_icons=true&theme=radical" />
+
+  <img width="49%" 
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hrishabh-Singh2003&layout=compact&theme=radical" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hrishabh-Singh2003&theme=react-dark&hide_border=true&bg_color=0D1117&color=A855F7&line=A855F7&point=FFFFFF" alt="Contribution Graph" />
+</div>
+
+---
+
+## 🏆 Certifications
+
+🎓 **Programming Fundamentals** – Duke University, Coursera (Sep 2023)  
+🤖 **Applied Machine Learning** – Coursera (Dec 2023)  
+☁️ **Cloud Computing** – NPTEL, IIT (May 2024)  
+📊 **Data Science for Beginners** – NASSCOM (Mar 2025)
+
+---
+
+## 🎯 Leadership & Achievements
+
+🌟 **Google Summer of CodeFest 2025** – Innovators Club, VIT  
+Advanced to Development Round among **100+ participants**, placing in **top 20%** with ML project proposal
+
+---
+
+## 📫 Let's Connect!
+
+<div align="center">
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rishabh-singh-76072b250)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hrishabh94258@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_GITHUB_USERNAME)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](YOUR_PORTFOLIO_URL)
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=20&fontColor=fff&animation=twinkling" />
+</div>
+
+<div align="center">
+  
+### 💭 Quote of the Day
+  
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+</div>
+
+---
+
+<div align="center">
+  
+**"Building the future, one algorithm at a time"** 🚀
+
+</div>
