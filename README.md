@@ -14,13 +14,13 @@
 
 <p align="center">
 <samp>
-「 Lead ML Engineer building scalable AI systems, MLOps platforms, and distributed ML infrastructure 」  
+「 Aspiring AI/ML Development Engineer building scalable AI systems, MLOps platforms, and distributed ML infrastructure 」  
 </samp>
 </p>
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1200&color=36BCF7&center=true&vCenter=true&width=900&lines=Lead+Machine+Learning+Engineer;Designing+Scalable+ML+Platforms;Building+ML+Infrastructure;Distributed+Systems+%7C+MLOps+%7C+Production+AI"
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1200&color=36BCF7&center=true&vCenter=true&width=900&lines=Machine+Learning+Engineer;Designing+Scalable+ML+Platforms;Building+ML+Infrastructure;Distributed+Systems+%7C+MLOps+%7C+Production+AI"
     alt="Typing SVG"
   />
 </p>
