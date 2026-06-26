@@ -15,7 +15,7 @@ class RishabhSingh:
     def __init__(self):
         self.username = "Rishabh Singh"
         self.current_education = "Integrated M.Tech in AI @ VIT"
-        self.cgpa = 8.43
+        self.cgpa = 8.59
         self.location = "India"
         self.interests = [
             "Machine Learning",
